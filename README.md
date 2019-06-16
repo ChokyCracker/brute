@@ -7,10 +7,10 @@ Kalau bisa jadi pembuat kenapa harus jadi peminta
 $ apt update && apt upgrade -y
 $ pkg install python
 $ pkg install git
-$ git clone https://github.com/asmin19/Fbbrute
+$ git clone https://github.com/asmin19/brute
 $ cd Fbbrute
 $ pip install requests
-$ pip install bs4
+$ pip install beautifulsoup4
 $ python brutefb.py
 
 
